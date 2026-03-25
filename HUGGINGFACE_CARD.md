@@ -14,21 +14,16 @@ tags:
 
 # Crimes Against Minors in Latin America: Statistics by Country, Crime Type and Ag
 
-- **DOI:** [https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024](https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024)
-- **GitHub:** [juanmoisesd/crimes-against-minors-latin-america-2020-2024](https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024)
-- **License:** CC BY 4.0
-- **Author:** de la Serna, Juan Moisés
+**DOI:** [https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024](https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024) | **GitHub:** [juanmoisesd/crimes-against-minors-latin-america-2020-2024](https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024) | **License:** CC BY 4.0
 
-## Load
-
+## Quick load
 ```python
 import pandas as pd
-# See Zenodo for actual filenames
-df = pd.read_csv("https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024/files/data.csv")
+# See https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024 for file listing
+df = pd.read_csv("URL_FROM_ZENODO")
 ```
 
-## Citation
-
+## Cite
 ```bibtex
 @dataset{delaserna2025,author={de la Serna, Juan Moisés},title={Crimes Against Minors in Latin America: Statistics by Countr},year={2025},doi={https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024},url={https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024}}
 ```
