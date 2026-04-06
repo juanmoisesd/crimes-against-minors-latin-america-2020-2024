@@ -52,3 +52,12 @@ De la Serna Tuya, J. M. (2026). *Delitos contra Menores en América Latina: Esta
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Crimes Against Minors Latin America 2020 2024*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/crimes-against-minors-latin-america-2020-2024 
+
+See `CITATION.cff` for formatted references.
